@@ -1,4 +1,4 @@
-# sharmuh-AI
+# eurekaAI
 
 https://ai-sharmuh.github.io/sharmuh-AI/
 
