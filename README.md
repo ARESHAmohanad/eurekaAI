@@ -1,5 +1,6 @@
 # eurekaAI
 
+https://areshamohanad.github.io/eurekaAI/XY.html
 https://ai-sharmuh.github.io/sharmuh-AI/
 
 An intelligent AI system designed to provide advanced artificial intelligence capabilities and solutions.
