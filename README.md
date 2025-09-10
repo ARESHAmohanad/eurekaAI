@@ -1,7 +1,7 @@
 # eurekaAI
 
 https://areshamohanad.github.io/eurekaAI/XY.html
-https://ai-sharmuh.github.io/sharmuh-AI/
+
 
 An intelligent AI system designed to provide advanced artificial intelligence capabilities and solutions.
 
@@ -27,8 +27,8 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ai-sharmuh/sharmuh-AI.git
-   cd sharmuh-AI
+   git clone 
+   cd eurekaAI
    ```
 
 2. **Create a virtual environment**
@@ -117,9 +117,9 @@ print(result)
 
 ### API Integration
 ```python
-from src.api import SharmuAI
+from src.api import eurekaAI 
 
-ai = SharmuAI(api_key="your_api_key")
+ai = eurekaAI(api_key="your_api_key")
 response = ai.generate_response("Hello, how are you?")
 print(response)
 ```
@@ -168,12 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by cutting-edge research in artificial intelligence
 - Built with love for the AI community
 
-## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/Ai-sharmuh/sharmuh-AI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Ai-sharmuh/sharmuh-AI/discussions)
-- **Email**: [your-email@example.com]
-- **Documentation**: [Full Documentation](https://ai-sharmuh.github.io/sharmuh-AI/)
 
 ## 🗺️ Roadmap
 
@@ -196,4 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
 
-**Made with ❤️ by the sharmuh-AI team**
+**Made with ❤️ by the eurekaAI team**
