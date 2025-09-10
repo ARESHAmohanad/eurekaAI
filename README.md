@@ -72,7 +72,7 @@ Before running this project, make sure you have the following installed:
 ## 📁 Project Structure
 
 ```
-sharmuh-AI/
+eurekaAI/
 ├── src/                    # Source code
 │   ├── models/            # ML models and neural networks
 │   ├── utils/             # Utility functions
