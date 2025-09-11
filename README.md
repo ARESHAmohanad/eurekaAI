@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Changelog
 
-### v1.0.0 (Latest)
+### v1.2.1 (Latest)
 - Initial release
 - Core AI functionality
 - API endpoints
