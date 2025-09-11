@@ -27,7 +27,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/ARESHAmohanad/eurekaAI.git
    cd eurekaAI
    ```
 
